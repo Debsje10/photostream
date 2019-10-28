@@ -1,0 +1,219 @@
+.in{
+
+	font-color: #7BA20E;
+	color: #404040;
+}
+
+body{
+	padding-top: 70px;
+}
+
+.navbar-default {
+  background-color: #FDE4F0;  
+}
+
+.image1 {
+  background-image: url(https://i.imgur.com/mwlJSwi.jpg=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+   .image1:hover {
+      opacity: 0.5;
+      } 
+
+
+.image2 {
+  background-image: url(https://i.imgur.com/dG0pZCs.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+  .image2:hover {
+      opacity: 0.5;
+      }
+
+
+.image3 {
+  background-image: url(https://i.imgur.com/zodABzO.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+  .image3:hover {
+      opacity: 0.5;
+      }
+
+
+
+.image4{
+  background-image: url(https://i.imgur.com/DtpVUpk.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+  .image4:hover {
+      opacity: 0.5;
+      }
+
+
+
+
+.image5 {
+  background-image: url(https://i.imgur.com/YTYsLxk.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+   .image5:hover {
+      opacity: 0.5;
+      }
+
+
+
+
+.image6 {
+  background-image: url(https://i.imgur.com/hlEDJy3.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+ }
+
+ .image6:hover {
+      opacity: 0.5;
+      }
+
+
+.image7 {
+  background-image: url(https://i.imgur.com/ZBRNw6X.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+ }
+
+ .image7:hover {
+      opacity: 0.5;
+      }
+
+.image8 {
+  background-image: url(https://i.imgur.com/7qKHdg2.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+ }
+
+.image8:hover {
+      opacity: 0.5;
+      }
+
+.image9 {
+  background-image: url(https://i.imgur.com/XBiK2k5.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+ }
+
+.image9:hover {
+      opacity: 0.5;
+      }
+
+.image9 {
+  background-image: url(https://i.imgur.com/gwIN1SA.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+ }
+
+.image9:hover {
+      opacity: 0.5;
+      }
+
+.image10 {
+  background-image: url(https://i.imgur.com/b0W8QJX.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+ }
+
+.image10:hover {
+      opacity: 0.5;
+      }
+
+.image11 {
+  background-image: url(https://i.imgur.com/Xkw2y9V.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+ }
+
+.image11:hover {
+      opacity: 0.5;
+      }
+
+.image12 {
+  background-image: url(https://i.imgur.com/qEvzc3K.jpg?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=);
+  opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+ }
+
+.image12:hover {
+      opacity: 0.5;
+      }
+
+
+
+
+
+
+
+
+.image {
+  width: 100%;
+  height: 260px;
+  background-size: cover;
+  background-position: center;
+}
+	
+
+.fa, .far, .fas {
+	font-size: 30px;
+	padding-left: 12px;
+}
+
+
+.jumbotron {
+  color:#606060;
+  background-color: #FFF3FC;
+}
+
+.navbar{
+
+  background-color: #FDE4F0;  
+}
+
+
+
+
+
+
+
+
